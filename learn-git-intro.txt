@@ -3,3 +3,4 @@ This is GIT repository
 - I want to make new macro
 - I want to learn machine learning
 - I want to make free apps
+- Make fundamenteal data structure
